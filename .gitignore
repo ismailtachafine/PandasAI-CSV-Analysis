@@ -2,3 +2,4 @@ cache
 exports
 venv
 .env
+*.log
